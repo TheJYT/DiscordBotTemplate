@@ -1,23 +1,26 @@
 {
-  "dependencies": {
-    "discord.js": "^12.5.1"
-  },
-  "name": "watchoubot",
+  "name": "discord-bot-template",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheJYT/WatchouBot.git"
+    "url": "git+https://github.com/TheJYT/DiscordBotTemplate.git"
   },
-  "author": "Jahleel A., Ben Reichwein",
+  "author": "Jahleel A.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheJYT/WatchouBot/issues"
+    "url": "https://github.com/TheJYT/DiscordBotTemplate/issues"
   },
-  "homepage": "https://github.com/TheJYT/WatchouBot#readme",
-  "description": ""
+  "homepage": "https://github.com/TheJYT/DiscordBotTemplate#readme",
+  "description": "Beginer-friendly Discord Bot Template.",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
