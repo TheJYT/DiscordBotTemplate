@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "name": "watchoubot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJYT/WatchouBot.git"
+  },
+  "author": "Jahleel A., Ben Reichwein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJYT/WatchouBot/issues"
+  },
+  "homepage": "https://github.com/TheJYT/WatchouBot#readme",
+  "description": ""
+}
