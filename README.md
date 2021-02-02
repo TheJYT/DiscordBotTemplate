@@ -25,10 +25,10 @@ if you are busy testing yout bot:
 # FAQ
 
 ### Where can I find my discord bot token?
-Take a look at (WriteBot's page)[https://www.writebots.com/discord-bot-token/] about creating and finind you discord bot token.
+Take a look at [WriteBot's page](https://www.writebots.com/discord-bot-token/) about creating and finind you discord bot token.
 
 ### Where can I find my discord ID?
-Take a look at (Discord's Page)[https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-] about finding the different types of ID's 
+Take a look at [Discord's Page](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) about finding the different types of ID's 
 
 ### How can i create new commands?
 Thats simple! Create a new file in the commands folder, and copy and paste the contents of the command.template file into it. OR copy it from here
